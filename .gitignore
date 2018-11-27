@@ -1,0 +1,5 @@
+.ruby-version
+.rvmrc
+.idea
+coverage/*
+log/*
